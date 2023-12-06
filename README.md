@@ -6,8 +6,7 @@ README
 # Bayesian Additive Regression Trees for Multivariate skewed responses
 
 This repository contains code to implement the methodology described in
-the paper “Bayesian Additive Regression Trees for Multivariate Skewed
-Responses”, by Um et al (2021+).
+the paper: Um S, Linero A, Sinha D and Bandyopadhyay D (2023). Bayesian additive regression trees for multivariate skewed responses, Statistics in Medicine, 42(3), 246-263
 
 There are two packages included in this repository: skewBART and
 MultiskewBART.
